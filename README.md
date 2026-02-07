@@ -26,3 +26,18 @@ Technology Used:
 
 How it works:
 The algorithm tries numbers 1–9 in empty cells and backtracks if a conflict occurs
+
+
+TASK 4 --
+Product Data Extraction using Java
+
+This project extracts product details such as name, price, and rating
+from an HTML page using Jsoup and stores the data in CSV format.
+
+Technologies:
+- Java
+- Jsoup Library
+- File Handling
+
+Output:
+- products.csv
